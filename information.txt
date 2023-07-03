@@ -1,0 +1,28 @@
+- Leounnard Tweak Program -
+
+- Tweak Ozellikleri
+
+⍟ - TCP/IP Tweak
+İnternetinizin gecikmesini azaltır , performansı artırır.
+
+⍟ - FPS Tweak
+Gereksiz depolanan dosyaları temizler , Registry'de olan değerleri maksimum performans için ayarlar.
+
+⍟ - DSCP Tweak
+Şuanlık sadece Minecraft oyunu için optimizasyon sağlar. Yaptığı optimizasyonda daha yüksek performans bir oyun sağlar.
+
+⍟ - Gpedit.msc Tweak
+Windows'un kendisinde varsayılan olan QoS değerlerini değiştirmeniz için size optimize değerler verir. 
+Bant genişliği ve bekleyen paketlerin sınırlandırılması gibi ayarları daha performansa yönelik ayarlar yapmanızı sağlar.
+
+⍟ - Service Tweak
+Gereksiz Windows Servislerinin başlangıçta çalışmasını durdurur , çalışan servislerin önceliğini artırır.
+
+⍟ - Netsh Tweak
+İnternetinizin yapılandırılmasına sağlayan Netsh değerlerini performans artırmaya yönelik ayarlar.
+
+⍟ - DefaultTTL Tweak
+DefaultTTL ve DefaultTOS değerlerini Regedit'e ekler ve optimize bir hale getirir.
+
+⍟ - Diğer Tweakler
+Performansı artırmaya yarayan diğer tweaklerdir.
